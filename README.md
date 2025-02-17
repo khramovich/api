@@ -7,7 +7,7 @@
 ### Вводные данные:
 
 * Первое задание (проверка XML на ошибки):
-```
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <note date="12/05/2022">
 <to><name>Alena</to></name>
@@ -24,7 +24,7 @@
 ### Артефакты:
 
 * Скорректированный XML:
-```
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <note date="12/05/2022">
 <to>
